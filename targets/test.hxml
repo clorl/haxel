@@ -1,0 +1,4 @@
+targets/_lib.hxml
+-w -WAll
+-cp test
+--run test.Test

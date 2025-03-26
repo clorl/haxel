@@ -1,0 +1,6 @@
+-lib utest
+-cp test
+targets/test.hxml
+--next
+-cp src
+targets/build.hxml
